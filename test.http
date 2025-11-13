@@ -1,0 +1,8 @@
+### Crear propina
+POST http://localhost:3000/tips
+Content-Type: application/json
+
+{
+  "total": 100,
+  "periodo": "2025-11-12"
+}
